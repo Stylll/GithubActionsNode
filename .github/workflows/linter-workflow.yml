@@ -1,0 +1,11 @@
+name: Linter CI
+on: pull_request
+jobs:
+    build:
+        runs-on: macos-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: Use Node Js
+              uses: actions/setup-node@v1
+            - run: yarn
+            - run: yarn lint
