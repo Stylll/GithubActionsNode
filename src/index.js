@@ -4,4 +4,4 @@ const obj = {
     class: 'First'
 }
 
-console.log("No console");
+console.log("No console")
