@@ -1,0 +1,25 @@
+{
+  "name": "githubactionsnode",
+  "version": "1.0.0",
+  "description": "Github Actions Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stylll/GithubActionsNode.git"
+  },
+  "author": "Stephen Aribaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stylll/GithubActionsNode/issues"
+  },
+  "homepage": "https://github.com/Stylll/GithubActionsNode#readme"
+}
