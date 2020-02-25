@@ -1,7 +1,7 @@
 
 const obj = {
-    name: 'Stephen',
-    class: 'First'
-}
+  name: 'Stephen',
+  class: 'First',
+};
 
-console.log("No console")
+// console.log("No console")
